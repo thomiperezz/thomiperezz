@@ -15,7 +15,7 @@ Actualmente estoy enfocado en **convertirme en Desarrollador Java**, combinando 
 *   **Herramientas:** Git, Maven, IntelliJ IDEA
 *   **Próximos pasos:** Docker, APIs RESTful avanzadas, pruebas con JUnit/Mockito
 
-#### **Infraestructura y Redes (mi diferencial)**
+#### **Infraestructura y Redes**
 *   **Sistemas Operativos:** Linux (administración, shell scripting, automatización con Bash)
 *   **Redes:** Protocolos TCP/IP, enrutamiento, switching, análisis de tráfico (Wireshark). Cursando **CCNA: Introduction to Networks**.
 *   **Seguridad:** Análisis de logs, monitorización de redes, detección de intrusiones (conceptos aplicados a aplicaciones Java).
