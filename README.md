@@ -30,27 +30,9 @@ Actualmente estoy enfocado en **convertirme en Desarrollador Java**, combinando 
 
 ---
 
-### 💻 Proyectos Destacados
-
-#### **API REST de Gestión de Tareas (Java + Spring Boot)**
-*   **Descripción:** API funcional para crear, leer, actualizar y eliminar tareas, con autenticación básica y persistencia en base de datos.
-*   **Tecnologías:** Java, Spring Boot, Spring Data JPA, MySQL, Maven.
-*   **Repo:** [https://github.com/thomiperezz/API-Gestion-de-Tareas]
-
-#### **Script de Monitoreo de Logs (Bash)**
-*   **Descripción:** Script en Bash que analiza logs de aplicaciones Java en tiempo real, detecta patrones de error y envía alertas por correo.
-*   **Tecnologías:** Bash, grep, awk, cron.
-*   **Repo:** [https://github.com/thomiperezz/analizador-logs]
-
-
----
-
 ### 🎯 ¿Por qué mi perfil es diferente?
 
-Mi paso por redes y sistemas me dio una perspectiva única: **entiendo cómo funcionan las aplicaciones más allá del código**. Puedo desarrollar pensando en:
-*   **Rendimiento:** Cómo impacta la red en una API.
-*   **Seguridad:** Cómo proteger una app desde el código (OWASP) y desde la infraestructura.
-*   **Despliegue:** Cómo llevar una app a un servidor Linux de forma eficiente.
+Mi paso por redes y sistemas me dio una perspectiva única: **entiendo cómo funcionan las aplicaciones más allá del código**. 
 
 ---
 
